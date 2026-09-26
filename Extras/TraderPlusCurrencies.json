@@ -1,0 +1,34 @@
+[
+    {
+        "ClassName": "CZ_Money_BRL200",
+        "Value": 200
+    },
+    {
+        "ClassName": "CZ_Money_BRL100",
+        "Value": 100
+    },
+    {
+        "ClassName": "CZ_Money_BRL50",
+        "Value": 50
+    },
+    {
+        "ClassName": "CZ_Money_BRL20",
+        "Value": 20
+    },
+    {
+        "ClassName": "CZ_Money_BRL10",
+        "Value": 10
+    },
+    {
+        "ClassName": "CZ_Money_BRL5",
+        "Value": 5
+    },
+    {
+        "ClassName": "CZ_Money_BRL2",
+        "Value": 2
+    },
+    {
+        "ClassName": "CZ_Money_BRL1",
+        "Value": 1
+    }
+]

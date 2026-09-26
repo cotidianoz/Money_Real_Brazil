@@ -1,0 +1,10 @@
+name = "Money Real Brazil";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "Money Real Brazil";
+overview = "Cedulas brasileiras para uso como moeda no TraderPlus.";
+action = "";
+author = "Cotidiano Z";
+version = "1.0.0";
